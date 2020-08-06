@@ -7,7 +7,7 @@ https://www.youtube.com/embed/oIV2KchSyGQ
 
 oIV2KchSyGQ = ID
 
-![alt text]()
+![alt text](https://github.com/zizuke/simple_youtube_focus_thing/blob/master/a.jpg?raw=true)
 
 in
 
