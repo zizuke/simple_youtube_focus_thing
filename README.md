@@ -19,4 +19,4 @@ src="https://www.youtube.com/embed/oIV2KchSyGQ">
 
 You also have the option to autoplay and more. Just check out this link: https://www.w3schools.com/html/html_youtube.asp
 
-Just make sure to keep <iframe height="100%" width="100%" class="myIframe"
+Just make sure to only modify the URL.
