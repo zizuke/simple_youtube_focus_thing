@@ -13,14 +13,14 @@ oIV2KchSyGQ = ID
 
 https://www.youtube.com/embed/2ZIpFytCSVc 
 
-in
-
+in this part:
 ```
 <iframe height="100%" width="100%" class="myIframe"
 src="https://www.youtube.com/embed/oIV2KchSyGQ">
 </iframe>
 ```
 
-You also have the option to autoplay and more. Just check out this link: https://www.w3schools.com/html/html_youtube.asp
+After that, just open the .html file and you're good.
 
+You also have the option to autoplay and more. Just check out this link: https://www.w3schools.com/html/html_youtube.asp
 Just make sure to only modify the URL.
